@@ -11,4 +11,4 @@ En esta nueva iniciativa buscamos mostrar videos de corta duración donde vamos 
 * Configuración de VS Code para proyectos Java
 * Neovim para proyectos Java
 
-Pueden proponer el tema que les interese, la lista presentada más arriba es sólo un punto de refencia.
+Pueden proponer el tema que les interese, la lista presentada más arriba es sólo un punto de referencia.
